@@ -1,0 +1,7 @@
+{
+    "items": [
+      { "path": "Course 1", "title": "LFCS - Linux Foundation Certified Systems Administrator " },
+      { "path": "Course 2", "title": "RHCSA" },
+      { "path": "Course 3", "title": "Systems Engineering" }
+    ]
+  }
